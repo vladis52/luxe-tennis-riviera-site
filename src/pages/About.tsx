@@ -71,8 +71,8 @@ const About = () => {
             <div className="relative">
               <div className="aspect-w-4 aspect-h-3 relative">
                 <img
-                  src="https://images.unsplash.com/photo-1599019195411-83ca569a4ea0?auto=format&fit=crop&w=800"
-                  alt="Tennis Retreat on the French Riviera"
+                  src="/lovable-uploads/6d5d089b-4c8b-4a7d-ad61-90106d3dbde5.png"
+                  alt="French Riviera Luxury Experience"
                   className="w-full h-full object-cover rounded-lg shadow-lg"
                 />
               </div>
