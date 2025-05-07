@@ -1,4 +1,3 @@
-
 import HeroSection from "@/components/HeroSection";
 import SectionTitle from "@/components/SectionTitle";
 import { Button } from "@/components/ui/button";
@@ -9,7 +8,7 @@ const About = () => {
     {
       name: "Rita Graumane",
       role: "Founder & Head Coach",
-      image: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=800",
+      image: "/lovable-uploads/5849fa6c-7811-4343-9c39-22748a3c4a8c.png",
       bio: "Latvian tennis star ranked 2nd in the women's 40+ category with 943 ranking points. Represents TK Zauers from Rīga, Latvia.",
     },
     {
@@ -58,7 +57,7 @@ const About = () => {
               </p>
               <div className="flex items-center">
                 <img
-                  src="https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=120"
+                  src="/lovable-uploads/5849fa6c-7811-4343-9c39-22748a3c4a8c.png"
                   alt="Rita Graumane"
                   className="w-16 h-16 rounded-full object-cover mr-4"
                 />
