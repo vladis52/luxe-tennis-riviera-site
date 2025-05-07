@@ -1,10 +1,5 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
 
+/* Clean up unnecessary styles that might be affecting our layout */
 .logo {
   height: 6em;
   padding: 1.5em;

@@ -24,7 +24,11 @@ const HeroSection = ({
         "relative flex items-center min-h-screen bg-center bg-cover bg-no-repeat",
         className
       )}
-      style={{ backgroundImage: `url(${backgroundImage})` }}
+      style={{ 
+        backgroundImage: `url(${backgroundImage})`,
+        backgroundSize: 'cover',
+        backgroundPosition: 'center'
+      }}
     >
       {overlay && (
         <div className="absolute inset-0 bg-navy bg-opacity-60"></div>
