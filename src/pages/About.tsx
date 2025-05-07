@@ -35,7 +35,7 @@ const About = () => {
   return (
     <>
       <HeroSection
-        backgroundImage="https://images.unsplash.com/photo-1458668383970-8ddd3927deed?auto=format&fit=crop&w=1200&h=800"
+        backgroundImage="https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&w=1200&h=800"
         title="About Tennis Luxe Club"
         subtitle="Discover the story behind our exclusive tennis retreats and meet our team of professionals dedicated to providing exceptional experiences."
       />

@@ -85,7 +85,7 @@ const Gallery = () => {
   return (
     <>
       <HeroSection
-        backgroundImage="https://images.unsplash.com/photo-1482938289607-e9573fc25ebb?auto=format&fit=crop&w=1200&h=800"
+        backgroundImage="https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&h=800"
         title="Our Gallery"
         subtitle="Explore images from our exclusive tennis retreats on the French Riviera and Monaco. From world-class tennis facilities to luxury accommodations and unique experiences."
       />

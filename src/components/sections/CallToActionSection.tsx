@@ -7,7 +7,7 @@ const CallToActionSection = () => {
       className="py-24 px-4 bg-navy text-white bg-cover bg-center"
       style={{
         backgroundImage:
-          "linear-gradient(rgba(10, 36, 99, 0.85), rgba(10, 36, 99, 0.85)), url(https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200)",
+          "linear-gradient(rgba(10, 36, 99, 0.85), rgba(10, 36, 99, 0.85)), url(https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=1200)",
       }}
     >
       <div className="container mx-auto">

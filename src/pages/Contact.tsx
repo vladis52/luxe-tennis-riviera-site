@@ -67,7 +67,7 @@ const Contact = () => {
   return (
     <>
       <HeroSection
-        backgroundImage="https://images.unsplash.com/photo-1458668383970-8ddd3927deed?auto=format&fit=crop&w=1200&h=800"
+        backgroundImage="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&h=800"
         title="Contact Us"
         subtitle="Get in touch with our team to learn more about our exclusive tennis retreats or to book your next luxury tennis experience."
       />
