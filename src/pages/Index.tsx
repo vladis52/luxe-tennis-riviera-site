@@ -1,6 +1,6 @@
 
 import { Button } from "@/components/ui/button";
-import { Trophy, Award, Star, TennisBall } from "lucide-react";
+import { Trophy, Award, Star, Activity } from "lucide-react";
 import { NavLink } from "react-router-dom";
 import HeroSection from "@/components/HeroSection";
 import SectionTitle from "@/components/SectionTitle";
@@ -94,7 +94,7 @@ const Index = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mt-12">
             <FeatureCard
-              icon={<TennisBall size={40} />}
+              icon={<Activity size={40} />}
               title="World-Class Coaching"
               description="Train with former ATP and WTA professionals in intimate group settings with personalized attention."
             />
