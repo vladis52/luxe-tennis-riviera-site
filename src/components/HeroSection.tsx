@@ -21,13 +21,13 @@ const HeroSection = ({
   return (
     <div
       className={cn(
-        "relative flex items-center min-h-screen bg-center bg-cover",
+        "relative flex items-center min-h-screen bg-center bg-cover bg-no-repeat",
         className
       )}
       style={{ backgroundImage: `url(${backgroundImage})` }}
     >
       {overlay && (
-        <div className="absolute inset-0 bg-navy bg-opacity-50"></div>
+        <div className="absolute inset-0 bg-navy bg-opacity-60"></div>
       )}
       <div className="container mx-auto px-4 relative z-10 mt-20">
         <h1 className="font-playfair font-bold text-4xl md:text-5xl lg:text-6xl text-white mb-6 leading-tight">
