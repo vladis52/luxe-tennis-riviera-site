@@ -7,10 +7,10 @@ import { NavLink } from "react-router-dom";
 const About = () => {
   const teamMembers = [
     {
-      name: "Andre Laurent",
+      name: "Rita Graumane",
       role: "Founder & Head Coach",
-      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800",
-      bio: "Former ATP tour player with 15 years of coaching experience at elite clubs worldwide.",
+      image: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=800",
+      bio: "Latvian tennis star ranked 2nd in the women's 40+ category with 943 ranking points. Represents TK Zauers from Rīga, Latvia.",
     },
     {
       name: "Sofia Martinez",
@@ -35,9 +35,9 @@ const About = () => {
   return (
     <>
       <HeroSection
-        backgroundImage="https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&w=1200&h=800"
+        backgroundImage="https://images.unsplash.com/photo-1620742820748-87c3fdd15b96?auto=format&fit=crop&w=1200&h=800"
         title="About Tennis Luxe Club"
-        subtitle="Discover the story behind our exclusive tennis retreats and meet our team of professionals dedicated to providing exceptional experiences."
+        subtitle="Discover the story behind our exclusive tennis retreats and meet our team of professionals dedicated to providing exceptional experiences on the French Riviera."
       />
 
       <section className="py-24 px-4 bg-white">
@@ -48,7 +48,7 @@ const About = () => {
                 Our Story
               </h2>
               <p className="text-gray-600 mb-4">
-                Tennis Luxe Club was founded in 2015 by former ATP player Andre Laurent with a vision to create tennis experiences that blend professional coaching with luxury accommodations in some of the world's most beautiful locations.
+                Tennis Luxe Club was founded in 2015 by Latvian tennis star Rita Graumane with a vision to create tennis experiences that blend professional coaching with luxury accommodations in some of the world's most beautiful locations.
               </p>
               <p className="text-gray-600 mb-4">
                 What began as intimate retreats for a small group of tennis enthusiasts has evolved into exclusive week-long tennis camps that attract passionate players from around the world seeking to improve their skills while enjoying the finest things life has to offer.
@@ -58,22 +58,23 @@ const About = () => {
               </p>
               <div className="flex items-center">
                 <img
-                  src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120"
-                  alt="Andre Laurent"
+                  src="https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=120"
+                  alt="Rita Graumane"
                   className="w-16 h-16 rounded-full object-cover mr-4"
                 />
                 <div>
-                  <h4 className="font-bold text-navy">Andre Laurent</h4>
+                  <h4 className="font-bold text-navy">Rita Graumane</h4>
                   <p className="text-sm text-gray-500">Founder & Head Coach</p>
+                  <p className="text-sm text-gray-500">Ranked #2 in Latvia (40+ category)</p>
                 </div>
               </div>
             </div>
             <div className="relative">
               <div className="aspect-w-4 aspect-h-3 relative">
                 <img
-                  src="https://images.unsplash.com/photo-1470813740244-df37b8c1edcb?auto=format&fit=crop&w=800"
-                  alt="Tennis Retreat"
-                  className="w-full h-full object-cover"
+                  src="https://images.unsplash.com/photo-1599019195411-83ca569a4ea0?auto=format&fit=crop&w=800"
+                  alt="Tennis Retreat on the French Riviera"
+                  className="w-full h-full object-cover rounded-lg shadow-lg"
                 />
               </div>
               <div className="absolute top-12 -left-12 w-48 h-48 bg-gold opacity-10 -z-10"></div>
@@ -164,7 +165,7 @@ const About = () => {
         className="py-24 px-4 bg-cover bg-center"
         style={{
           backgroundImage:
-            "linear-gradient(rgba(10, 36, 99, 0.8), rgba(10, 36, 99, 0.8)), url(https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200)",
+            "linear-gradient(rgba(10, 36, 99, 0.8), rgba(10, 36, 99, 0.8)), url(https://images.unsplash.com/photo-1583767255691-f3fb2562297c?auto=format&fit=crop&w=1200)",
         }}
       >
         <div className="container mx-auto text-center">
