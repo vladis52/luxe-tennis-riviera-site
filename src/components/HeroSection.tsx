@@ -25,7 +25,7 @@ const HeroSection = ({
         className
       )}
       style={{ 
-        backgroundImage: `url(${backgroundImage})`,
+        backgroundImage: `url("${backgroundImage}")`,
         backgroundSize: 'cover',
         backgroundPosition: 'center'
       }}
