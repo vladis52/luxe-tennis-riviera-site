@@ -12,7 +12,7 @@ const Index = () => {
   return (
     <>
       <HeroSection
-        backgroundImage="https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&h=800"
+        backgroundImage="https://images.unsplash.com/photo-1576517387618-d4eddc3eac51?auto=format&fit=crop&w=1200&h=800"
         title="Exclusive Tennis Retreats on the French Riviera & Monaco"
         subtitle="Experience world-class tennis coaching, luxurious accommodations, and breathtaking Mediterranean views at our exclusive week-long retreats."
       >
